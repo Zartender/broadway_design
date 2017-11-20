@@ -1,0 +1,11 @@
+body {
+  font-family: Helvetica;
+}
+div .heading {
+  background-image: image(\resources\media\photo\the-flatiron-building.png (1830×297).url);
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
