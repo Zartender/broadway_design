@@ -2,11 +2,44 @@ body {
   font-family: Helvetica;
   text-align: center;
 }
-div .heading {
-   background-image: url("../media/photo/the-flatiron-building.png (1830×297).url");
-}
+.heading {
+   background-image: url("../media/photo/the-flatiron-building.png");
+   color: White;
+   }
 h1 {
   font-size: 70px;
   font-weight: bold;
-  color: white;
+}
+.nav a {
+  text-decoration: none;
+  color: White;
+  font-size: 18px;
+  font-weight: bold;
+  }
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: 23;
+}
+.small {
+  font-size: 14px;
+}
+#diny {
+  background-image: url("../media/photo/the-flatiron-building.png");
+  color: White;
+  font-size: 23px;
+  font-weight: bold;
+}
+.footer {
+  font-size: 11px;
+  color: White;
+  background-color: dimgray;
+  text-align: left;
+}
+#nav {
+  color: White;
+
 }
